@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis SQL Project
 
-## Project Overview
+## 🔍 About the Project
 
 In this project, I analyzed pizza sales data to help a pizza shop understand their business performance. Using SQL Server, I wrote various queries to address questions related to:
 - Sales trends over time
